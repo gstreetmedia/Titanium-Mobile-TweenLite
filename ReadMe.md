@@ -5,7 +5,7 @@ I developed this approach to solve Android animation issues:
 1. Hit areas don't move with the animated view. 
 2. Easing functions, while accessible (eg Ti.Android.R.anim.linear_interpolator), don't have any effect. 
 
-This library solves both of these issues, albeit at not quite the same performance as views animated natively, and it also work on Mobile Web and IOS.
+This library solves both of these issues (albeit at not quite the same performance as views animated natively) and is also compatible Mobile Web and IOS.
 
 There is currently an dependency on Alloy. I'll remove this if there is enough interest.
 
